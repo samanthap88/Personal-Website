@@ -2003,6 +2003,12 @@ pre code {
 				opacity: 0;
 			}
 
+			@media (max-width: 768px) {
+				#header {
+					display: none;
+				}
+			}
+
 /* Banner */
 
 	#banner {
